@@ -1,1 +1,1 @@
-# Traffic--Light--Controller-Using-Verilog
+# Traffic-Light-Controller-Using-Verilog
