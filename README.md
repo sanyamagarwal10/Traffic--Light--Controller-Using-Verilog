@@ -31,3 +31,9 @@ Simulation Testbench: Includes a testbench for verifying the design's behavior i
 1.Load the testbench file in your Verilog simulation tool.
 
 2.Run the simulation to observe the traffic light controller's behavior and verify that it meets the desired specifications.
+
+# Customization
+
+Adjust the timing parameters in the Verilog code to change the duration of each traffic light phase.
+
+Modify the FSM logic to add or change functionality, such as additional traffic light sequences or pedestrian modes.
