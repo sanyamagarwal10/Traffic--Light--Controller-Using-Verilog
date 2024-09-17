@@ -16,3 +16,13 @@ Customizable Timing: Allows for adjustments in the duration of Red, Yellow, and 
 Pedestrian Mode: Optional functionality for pedestrian crossings.
 
 Simulation Testbench: Includes a testbench for verifying the design's behavior in a simulated environment.
+
+# Setup and Simulation
+Verilog Tools
+1.Install a Verilog-compatible tool like ModelSim or Vivado.
+2.Open the traffic_light_controller.v and fsm.v files in the tool.
+3.Compile and simulate the design using the provided testbench (traffic_light_tb.v) to verify functionality.
+
+Simulation
+1.Load the testbench file in your Verilog simulation tool.
+2.Run the simulation to observe the traffic light controller's behavior and verify that it meets the desired specifications.
